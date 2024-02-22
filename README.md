@@ -8,7 +8,7 @@
 - Open Source
 
 # Installation
-1. Download from [github]()
+1. Download from [github](https://github.com/SirCyirx/c-characterkill)
 2. Rename the folder to c-characterkill.
 3. Put The Folder In Your Resources Folder.
 4. Restart Your Server.
