@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 author 'Cyrix'
 description 'C-CharacterKill'
-version '1.1'
+version '1.1.1'
 
 client_scripts {
     'client/*.lua'
